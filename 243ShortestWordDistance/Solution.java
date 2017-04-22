@@ -6,7 +6,8 @@ public class Solution {
         		w1 = i;
         	if (words[i].equals(word2))
         		w2 = i;
-        	dis = Math.min(dis, Math.abs(w2 - w1));
+        	if (w1 != -1 && w2 != -1)
+        		dis = Math.min(dis, Math.abs(w2 - w1));
         }
         return dis;
     }
