@@ -1,10 +1,10 @@
 class Solution {
 
-    class Forest {
+    class ForestPoint {
         int x;
         int y;
         int height;
-        public Forest(int x, int y, int height) {
+        public ForestPoint(int x, int y, int height) {
             this.x = x;
             this.y = y;
             this.height = height;
@@ -18,22 +18,22 @@ class Solution {
         int n = forest.size();
         int m = forest.get(0).size();
         int totalStep = 0, totalCut = 0; // total cut for another problem
-        Queue<Forest> treeQueue = new PriorityQueue<>(n * m, new Comparator<Forest>() {
-            public int compare(Forest a, Forest b) {
+        Queue<ForestPoint> treeQueue = new PriorityQueue<>(n * m, new Comparator<ForestPoint>() {
+            public int compare(ForestPoint a, ForestPoint b) {
                 return a.height - b.height;
             }
         });
-        Forest current = new Forest(0, 0, 1);
+        ForestPoint current = new ForestPoint(0, 0, 1);
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 int height = forest.get(i).get(j);
                 if (height > 1) {
-                    treeQueue.offer(new Forest(i, j, height));
+                    treeQueue.offer(new ForestPoint(i, j, height));
                 }
             }
         }
         while(!treeQueue.isEmpty()) {
-            Forest next = treeQueue.poll();
+            ForestPoint next = treeQueue.poll();
             int step = searchPath(forest, current, next);
             if (step != -1) {
                 totalStep += step;
@@ -47,17 +47,17 @@ class Solution {
         return totalStep;
     }
 
-    public int searchPath(List<List<Integer>> forest, Forest start, Forest end) {
+    public int searchPath(List<List<Integer>> forest, ForestPoint start, ForestPoint end) {
 
         int step = 0;
-        Queue<Forest> queue = new LinkedList<>();
+        Queue<ForestPoint> queue = new LinkedList<>();
         boolean[][] visited = new boolean[forest.size()][forest.get(0).size()];
         queue.offer(start);
         visited[start.x][start.y] = true;
         while (!queue.isEmpty()) {
             int size = queue.size();
             for (int i = 0; i < size; i++) {
-                Forest current = queue.poll();
+                ForestPoint current = queue.poll();
                 if(end.x == current.x && end.y == current.y) {
                     return step;
                 }
@@ -68,7 +68,7 @@ class Solution {
                         && forest.get(x).get(y) != 0 && !visited[x][y]) {
                         int currentHeight = forest.get(x).get(y);
                         if (currentHeight != 0) {
-                            queue.offer(new Forest(x, y, 1));
+                            queue.offer(new ForestPoint(x, y, 1));
                             visited[x][y] = true;
                         }
                     }
