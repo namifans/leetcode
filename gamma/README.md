@@ -80,11 +80,24 @@
 297. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
 
+### Greedy
+45. [Jump Game II](https://leetcode.com/problems/jump-game-ii)
+55. [Jump Game](https://leetcode.com/problems/jump-game)
+122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
+253. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+455. [Assign Cookies](https://leetcode.com/problems/assign-cookies)
 
-
-
-
-
-
-
-
+### Dynamic programming
+5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+32. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
+53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+62. [Unique Paths](https://leetcode.com/problems/unique-paths)
+63. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
+64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
+70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+91. [Decode Ways](https://leetcode.com/problems/decode-ways)
+121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+139. [Word Break](https://leetcode.com/problems/word-break)
+140. [Word Break II](https://leetcode.com/problems/word-break-ii)
+152. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
+198. [House Robber](https://leetcode.com/problems/house-robber)
