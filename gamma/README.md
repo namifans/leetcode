@@ -1,4 +1,5 @@
 # Leetcode Solutions 2018 Q3-Q4
+## Algorithms
 ### Two Pointers
 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
@@ -23,3 +24,20 @@
 283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 344. [Reverse String](https://leetcode.com/problems/reverse-string)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
+
+### Backtracking
+17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+39. [Combination Sum](https://leetcode.com/problems/combination-sum)
+40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
+46. [Permutations](https://leetcode.com/problems/permutations)
+47. [Permutations II](https://leetcode.com/problems/permutations-ii)
+60. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
+77. [Combinations](https://leetcode.com/problems/combinations)
+78. [Subsets](https://leetcode.com/problems/subsets)
+79. [Word Search](https://leetcode.com/problems/word-search)
+90. [Subsets II](https://leetcode.com/problems/subsets-ii)
+93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
+131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
+140. [Word Break II](https://leetcode.com/problems/word-break-ii)
+216. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii)
