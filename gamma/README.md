@@ -41,3 +41,18 @@
 131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
 140. [Word Break II](https://leetcode.com/problems/word-break-ii)
 216. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii)
+
+### Binary search
+4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+34. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+35. [Search Insert Position](https://leetcode.com/problems/search-insert-position)
+69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)
+74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+81. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
+162. [Find Peak Element](https://leetcode.com/problems/find-peak-element)
+167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+278. [First Bad Version](https://leetcode.com/problems/first-bad-version)
+349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
+
+
