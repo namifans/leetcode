@@ -2,11 +2,24 @@
 ### Two Pointers
 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
-15. 3Sum
-18. 4Sum    
-19. Remove Nth Node From End of List    
-26. Remove Duplicates from Sorted Array    
-27. Remove Element    
-28. Implement strStr()    
-42. Trapping Rain Water    
-61. Rotate List
+15. [3Sum](https://leetcode.com/problems/3sum)
+16. [3Sum Cloest](https://leetcode.com/problems/3sum-closest)
+18. [4Sum](https://leetcode.com/problems/4sum)
+19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+27. [Remove Element](https://leetcode.com/problems/remove-element)
+28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)
+42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+61. [Rotate List](https://leetcode.com/problems/rotate-list)
+75. [Sort Colors](https://leetcode.com/problems/sort-colors)
+76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
+80. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+86. [Partition List](https://leetcode.com/problems/partition-list)
+88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+234. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+344. [Reverse String](https://leetcode.com/problems/reverse-string)
+349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
