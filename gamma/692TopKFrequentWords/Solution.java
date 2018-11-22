@@ -1,7 +1,3 @@
-class WordCount {
-    public String word;
-    public int count;
-}
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         List<String> result = new ArrayList<>();
