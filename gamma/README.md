@@ -42,6 +42,13 @@
 140. [Word Break II](https://leetcode.com/problems/word-break-ii)
 216. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii)
 
+### Heap
+23. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+215. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+253. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
+692. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
+
 ### Binary search
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
