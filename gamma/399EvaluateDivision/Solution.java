@@ -21,7 +21,6 @@ class Solution {
                 edges.get(equations[i][1]).add(equations[i][0]);
                 weights.get(equations[i][1]).add(1 / values[i]);
             }
-            System.out.println("x " + equations[i][0] + " y " + equations[i][1] + " value " + values[i] + " 1/value " + (1/values[i]));
         }
         for (int i = 0; i < queries.length; i++) {
             Set<String> visited = new HashSet<>();
