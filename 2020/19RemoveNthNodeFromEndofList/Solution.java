@@ -13,7 +13,7 @@ class Solution {
         if (head == null) {
             return null;
         }
-        ListNode dummy = new ListNode(0), fast = head.next, slow = head, prev = dummy;
+        ListNode dummy = new ListNode(0), fast = head.next, slow = dummy;
         dummy.next = head;
         while (n > 1 && fast != null) {
             fast = fast.next;
@@ -22,9 +22,8 @@ class Solution {
         while (fast != null) {
             fast = fast.next;
             slow = slow.next;
-            prev = prev.next;
         }
-        prev.next = slow.next;
+        slow.next = slow.next.next;
         return dummy.next;
     }
 }
