@@ -23,7 +23,6 @@ class Solution {
                 } else {
                     path[i][j] = 0;
                 }
-                
             }
         }
         return path[m - 1][n - 1];
