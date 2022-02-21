@@ -4,10 +4,9 @@ class Solution {
         while (j < nums.length) {
             if (nums[j] >= sum && sum < 0) {
                 i = j;
-                sum = nums[j++];
-            } else {
-                sum += nums[j++];
+                sum = 0;
             }
+            sum += nums[j++];
             max = Math.max(sum, max);
         }
         return max;
