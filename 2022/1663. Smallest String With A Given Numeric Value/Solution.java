@@ -1,19 +1,19 @@
 class Solution {
     public String getSmallestString(int n, int k) {
-        StringBuilder sb = new StringBuilder();
+        char[] res = new char[n];
         k -= n;
-        int i = 26;
+        int i = 26, j = n - 1;
         while (i >= 2 && k >= 0) {
             if (k + 1 >= i) { 
                 char c = (char) (i + 96);
-                sb.insert(0, c);
+                res[j--] = c;
                 k -= (i - 1);
             } else 
                 i--;
         }
-        while (sb.length() < n) {
-            sb.insert(0, 'a');
+        while (j >= 0) {
+            res[j--] = 'a';
         }
-        return sb.toString();
+        return new String(res);
     }
 }
