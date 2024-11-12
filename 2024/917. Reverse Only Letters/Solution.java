@@ -10,7 +10,7 @@ class Solution {
             } else {
                 char c = arr[i];
                 arr[i++] = arr[j];
-                arr[j--] = c;
+                arr[j--] = c; 
             }
         }
         return new String(arr);
