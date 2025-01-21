@@ -1,3 +1,7 @@
 *.sublime-project
 **/*.sublime-project
 **/*.sublime-workspace
+*.sublime-project
+*.sublime-workspace
+2025/lc25.sublime-project
+2025/lc25.sublime-workspace
