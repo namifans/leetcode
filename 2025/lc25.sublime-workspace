@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"Compar",
+				"Comparator"
+			],
+			[
+				"count",
+				"ClassNotFoundException"
+			],
+			[
+				"StringB",
+				"StringBuilder"
+			],
+			[
+				"fo",
+				"follow"
+			],
+			[
+				"fool",
+				"followerId"
+			],
+			[
+				"cont",
+				"containsKey"
+			],
+			[
+				"foll",
+				"followee"
+			],
+			[
+				"fow",
+				"followee"
+			],
+			[
+				"fol",
+				"followee"
+			],
+			[
+				"follo",
+				"follower"
+			],
+			[
+				"f",
+				"followee"
+			],
+			[
+				"twee",
+				"tweetId"
+			],
+			[
+				"folw",
+				"followerId"
+			],
+			[
+				"Integer",
+				"Integer"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Strin",
+				"StringBuilder"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"Array",
+				"ArrayList"
+			],
+			[
+				"h",
+				"haystack"
+			],
+			[
+				"nee",
+				"needle"
+			],
+			[
+				"lo",
+				"logMap"
+			],
+			[
+				"pre",
+				"prev"
+			],
+			[
+				"int",
+				"intervals"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"Li",
+				"ListNode"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fin",
+				"findParenthesis"
+			],
+			[
+				"dit",
+				"digits"
+			],
+			[
+				"dig",
+				"digits"
+			],
+			[
+				"digi",
+				"digit"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"String",
+				"String"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"sr",
+				"strs"
+			],
+			[
+				"max",
+				"maxPalindrome"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"v",
+				"vec2d"
+			],
+			[
+				"Ma",
+				"MAX_VALUE"
+			],
+			[
+				"M",
+				"MAX_VALUE"
+			],
+			[
+				"l",
+				"leftMax"
+			],
+			[
+				"pai",
+				"pairList"
+			],
+			[
+				"conta",
+				"containsKey"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"Lo",
+				"Log"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"Tri",
+				"TrieNode"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"Tr",
+				"TrieNode"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"no",
+				"node"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"put",
+				"putTrieNode"
+			],
+			[
+				"se",
+				"searchPrefix"
+			],
+			[
+				"Tre",
+				"TrieNode"
+			],
+			[
+				"start",
+				"startsWith"
+			],
+			[
+				"ps",
+				"positions"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"Un",
+				"UnionFind"
+			],
+			[
+				"dn",
+				"dnaSet"
+			],
+			[
+				"de",
+				"deleted"
+			],
+			[
+				"id",
+				"idxT"
+			],
+			[
+				"ar",
+				"arrT"
+			],
+			[
+				"arr",
+				"arrS"
+			],
+			[
+				"wor",
+				"word2"
+			],
+			[
+				"tra",
+				"traverse"
+			],
+			[
+				"k",
+				"kthSmallest"
+			],
+			[
+				"fl",
+				"flatten"
+			],
+			[
+				"fli",
+				"flipEquiv"
+			],
+			[
+				"roo",
+				"root2"
+			],
+			[
+				"ro",
+				"root2"
+			],
+			[
+				"nums",
+				"nums2"
+			],
+			[
+				"P",
+				"Pair"
+			],
+			[
+				"pair",
+				"pairHeap"
+			],
+			[
+				"s",
+				"System"
+			],
+			[
+				"tran",
+				"triangle"
+			],
+			[
+				"in",
+				"invertTree"
+			],
+			[
+				"cou",
+				"countB"
+			],
+			[
+				"mid",
+				"midCol"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"ve",
+				"ver1"
+			],
+			[
+				"ver",
+				"version2"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"j",
+				"jumps"
+			],
+			[
+				"head",
+				"headB"
+			],
+			[
+				"tmp",
+				"tmpA"
+			],
+			[
+				"hea",
+				"headA"
+			],
+			[
+				"tm",
+				"tmpA"
+			],
+			[
+				"nea",
+				"newhead"
+			],
+			[
+				"righ",
+				"rightSum"
+			],
+			[
+				"ri",
+				"rightList"
+			],
+			[
+				"left",
+				"leftList"
+			],
+			[
+				"I",
+				"Integer"
+			],
+			[
+				"pro",
+				"profit"
+			],
+			[
+				"is",
+				"isDigitLog"
+			],
+			[
+				"dp",
+				"depth"
+			],
+			[
+				"min",
+				"minStack"
+			],
+			[
+				"Inte",
+				"Interval"
+			],
+			[
+				"IN",
+				"Interval"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"Strinb",
+				"StringBuilder"
+			],
+			[
+				"du",
+				"duplicate"
+			],
+			[
+				"ex",
+				"exist"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"prin",
+				"printMatrix"
+			],
+			[
+				"Int",
+				"Interval"
+			],
+			[
+				"n",
+				"numRows"
+			],
+			[
+				"c",
+				"combinationSum2"
+			],
+			[
+				"co",
+				"combinationSum2"
+			],
+			[
+				"ca",
+				"candidates"
+			],
+			[
+				"sa",
+				"isSameTree"
+			],
+			[
+				"L",
+				"List"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"m",
+				"mergeLists"
+			],
+			[
+				"lis",
+				"lists"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"anw",
+				"answer_id"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"acc",
+				"accepter_id"
+			],
+			[
+				"ac",
+				"accepter_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gn0000q/Github/leetcode/2024",
+		"/Users/gn0000q/Github/leetcode/2024/1. Two Sum"
+	],
+	"file_history":
+	[
+		"/Users/gn0000q/Github/leetcode/2024/56. Merge Intervals/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/1570. Dot Product of Two Sparse Vectors/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/295. Find Median from Data Stream/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/347. Top K Frequent Elements/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/503. Next Greater Element II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/75. Sort Colors/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/135. Candy/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/134. Gas Station/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/2185. Counting Words With a Given Prefix/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/5. Longest Palindromic Substring/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1570. Dot Product of Two Sparse Vectors/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/1143. Longest Common Subsequence/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/198. House Robber/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/198. House Robber/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/62. Unique Paths/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/322. Coin Change/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/70. Climbing Stairs/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/52. N-Queens II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/22. Generate Parentheses/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/46. Permutations/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/207. Course Schedule/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/114. Flatten Binary Tree to Linked List/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/114. Flatten Binary Tree to Linked List/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/329. Longest Increasing Path in a Matrix/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/124. Binary Tree Maximum Path Sum/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/285. Inorder Successor in BST/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/285. Inorder Successor in BST/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/106. Construct Binary Tree from Inorder and Postorder Traversal/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/105. Construct Binary Tree from Preorder and Inorder Traversal/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1644. Lowest Common Ancestor of a Binary Tree II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/98. Validate Binary Search Tree/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/662. Maximum Width of Binary Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/199. Binary Tree Right Side View/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/57. Insert Interval/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/50. Pow(x, n)/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/162. Find Peak Element/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/238. Product of Array Except Self/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/303. Range Sum Query - Immutable/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/986. Interval List Intersections/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/496. Next Greater Element I/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/33. Search in Rotated Sorted Array/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/278. First Bad Version/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/69. Sqrt(x)/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/34. Find First and Last Position of Element in Sorted Array/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/424. Longest Repeating Character Replacement/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/438. Find All Anagrams in a String/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/19. Remove Nth Node From End of List/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/314. Binary Tree Vertical Order Traversal/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1650. Lowest Common Ancestor of a Binary Tree III/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/408. Valid Word Abbreviation/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1249. Minimum Remove to Make Valid Parentheses/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/1249. Minimum Remove to Make Valid Parentheses/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/200. Number of Islands/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/133. Clone Graph/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/987. Vertical Order Traversal of a Binary Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/339. Nested List Weight Sum/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1768. Merge Strings Alternately/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/236. Lowest Common Ancestor of a Binary Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/53. Maximum Subarray/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/208. Implement Trie (Prefix Tree)/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/211. Design Add and Search Words Data Structure/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/79. Word Search/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/212. Word Search II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/994. Rotting Oranges/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/785. Is Graph Bipartite?/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/303. Range Sum Query - Immutable/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/680. Valid Palindrome II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/560. Subarray Sum Equals K/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/253. Meeting Rooms II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/270. Closest Binary Search Tree Value/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/636. Exclusive Time of Functions/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/977. Squares of a Sorted Array/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/227. Basic Calculator II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/71. Simplify Path/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1091. Shortest Path in Binary Matrix/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/138. Copy List with Random Pointer/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/921. Minimum Add to Make Parentheses Valid/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/670. Maximum Swap/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/11. Container With Most Water/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/206. Reverse Linked List/Solution2.java",
+		"/Users/gn0000q/Github/leetcode/2024/832. Flipping an Image/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/426. Convert Binary Search Tree to Sorted Doubly Linked List/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1539. Kth Missing Positive Number/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/56. Merge Intervals/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/973. K Closest Points to Origin/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/146. LRU Cache/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/199. Binary Tree Right Side View/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/766. Toeplitz Matrix/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/1047. Remove All Adjacent Duplicates In String/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/700. Search in a Binary Search Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/917. Reverse Only Letters/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/543. Diameter of Binary Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/113. Path Sum II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/125. Valid Palindrome/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/590. N-ary Tree Postorder Traversal/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/74. Search a 2D Matrix/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/128. Longest Consecutive Sequence/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/350. Intersection of Two Arrays II/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/383. Ransom Note/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/347. Top K Frequent Elements/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/434. Number of Segments in a String/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/441. Arranging Coins/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/461. Hamming Distance/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/485. Max Consecutive Ones/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/494. Target Sum/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/495. Teemo Attacking/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/559. Maximum Depth of N-ary Tree/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/367. Valid Perfect Square/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/508. Most Frequent Subtree Sum/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/643. Maximum Average Subarray I/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/657. Robot Return to Origin/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/658. Find K Closest Elements/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/674. Longest Continuous Increasing Subsequence/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/705. Design HashSet/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/747. Largest Number At Least Twice of Others/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/876. Middle of the Linked List/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/692. Top K Frequent Words/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/36. Valid Sudoku/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/73. Set Matrix Zeroes/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/796. Rotate String/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/703. Kth Largest Element in a Stream/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/246. Strobogrammatic Number/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/202. Happy Number/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/355. Design Twitter/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/575. Distribute Candies/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/771. Jewels and Stones/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/819. Most Common Word/Solution.java",
+		"/Users/gn0000q/Github/leetcode/2024/49. Group Anagrams/Solution.java"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lc25.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 305.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
