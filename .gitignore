@@ -1,2 +1,3 @@
 *.sublime-project
-**/2025/*.sublime-project
+**/*.sublime-project
+**/*.sublime-workspace
