@@ -5,14 +5,11 @@ class Solution {
         while (i <= j) {
             if (!Character.isLetterOrDigit(arr[i])) {
                 i++;
-                continue;
-            }
-            if (!Character.isLetterOrDigit(arr[j])) {
+            } else if (!Character.isLetterOrDigit(arr[j])) {
                 j--;
-                continue;
-            }
-            if (Character.toLowerCase(arr[i++]) != Character.toLowerCase(arr[j--]))
+            } else if (Character.toLowerCase(arr[i++]) != Character.toLowerCase(arr[j--])) {
                 return false;
+            }
         }
         return true;
     }

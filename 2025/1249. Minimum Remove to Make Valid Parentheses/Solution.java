@@ -1,34 +1,26 @@
-class Pair {
-    public char c;
-    public int pos;
-    public Pair(char c, int pos) {
-        this.c = c;
-        this.pos = pos;
-    }
-}
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        Stack<Pair> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
         char[] arr = s.toCharArray();
-        StringBuilder sb = new StringBuilder();
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> removeSet = new HashSet<>();
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == '(') {
-                stack.push(new Pair('(', i));
+                stack.push(i);
             } else if (arr[i]  == ')') {
-                if (!stack.isEmpty() && stack.peek().c == '(') {
+                if (!stack.isEmpty() && arr[stack.peek()] == '(') {
                     stack.pop();
                 } else {
-                    set.add(i);
+                    removeSet.add(i);
                 }
-            } 
+            }
         }
         while (!stack.isEmpty()) {
-            set.add(stack.pop().pos);
+            removeSet.add(stack.pop());
         }
-        for (int i = 0; i < arr.length; i++) {
-            if (!set.contains(i)) {
-                sb.append(arr[i]);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            if (!removeSet.contains(i)) {
+                sb.append(s.charAt(i));
             }
         }
         return sb.toString();
