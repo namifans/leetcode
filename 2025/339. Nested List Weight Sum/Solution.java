@@ -28,20 +28,16 @@
  */
 class Solution {
     public int depthSum(List<NestedInteger> nestedList) {
-        int sum = 0;
-        for (NestedInteger nl : nestedList) {
-            sum += getSum(nl, 1);
-        }
-        return sum;
+        return getSum(nestedList, 1);
     }
 
-    private int getSum(NestedInteger list, int depth) {
-        if (list.isInteger()) {
-            return list.getInteger() * depth;
-        }
+    private int getSum(List<NestedInteger> list, int depth) {
         int sum = 0;
-        for (NestedInteger n : list.getList()) {
-            sum += getSum(n, depth + 1);
+        for (NestedInteger n : list) {
+            if (n.isInteger())
+                sum += depth * n.getInteger();
+            else
+                sum += getSum(n.getList(), depth + 1);
         }
         return sum;
     }

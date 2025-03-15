@@ -6,6 +6,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
             int key = sum % k;
+            // (sum[j] - sum[i]) % k == 0 -> sum[j] % k == sum[i] % k
             if (modMap.containsKey(key)) {
                 if (i - modMap.get(key) >= 2)
                     return true;
