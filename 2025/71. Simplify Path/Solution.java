@@ -2,21 +2,21 @@ class Solution {
     public String simplifyPath(String path) {
         String[] arr = path.split("/");
         StringBuilder sb = new StringBuilder();
-        Stack<String> stack = new Stack<>();
+        Deque<String> stack = new LinkedList<>();
         for (String s : arr) {
             if (s.length() == 0 || ".".equals(s))
                 continue;
             else if ("..".equals(s)) {
                 if (!stack.isEmpty())
-                    stack.pop();
+                    stack.removeLast();
             } else {
-                stack.push(s);
+                stack.addLast(s);
             }
         }
         if (stack.isEmpty())
             return "/";
         while (!stack.isEmpty()) {
-            sb.insert(0, "/" + stack.pop());
+            sb.append("/" + stack.removeFirst());
         }
         return sb.toString();
     }
