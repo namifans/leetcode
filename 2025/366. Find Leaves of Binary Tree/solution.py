@@ -23,5 +23,3 @@ class Solution:
         res = []
         dfs(root)
         return res
-
-        
